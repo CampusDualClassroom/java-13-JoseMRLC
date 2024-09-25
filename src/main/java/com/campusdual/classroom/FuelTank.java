@@ -19,6 +19,4 @@ public class FuelTank {
       this.actualFuel = fuel;
     }
   }
-
-
 }
